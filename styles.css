@@ -1,0 +1,36 @@
+body{
+    background-color : black;
+}
+.logoName{
+    font-style: bold;
+    color: #C2E0F9 !important;
+}
+
+#projectsBody{
+    background-color: grey;
+}
+
+.header{
+    font-style: oblique;
+    color: #C9E0EC;
+}
+
+.header:hover{
+    background-color: dark;
+    color: #DC143C;
+}
+
+.activeHeader{
+    color: green;
+}
+
+
+.logoLink{
+    text-decoration:none;
+}
+.logoLink:link{
+    color: white;
+}
+.logoLink:visited{
+    color: white;
+}
